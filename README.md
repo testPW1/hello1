@@ -1,3 +1,3 @@
 # Doc
 
-Hello.
+Hello!
